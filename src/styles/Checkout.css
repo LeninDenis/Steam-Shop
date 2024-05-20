@@ -1,0 +1,14 @@
+.checkout {
+    background-color: #51779e;
+    border: 1px solid #c27878;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  .checkout h2 {
+    margin-top: 0;
+  }
+  
+  .checkout form {
+    margin-top: 20px;
+  }
